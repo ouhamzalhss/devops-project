@@ -35,7 +35,7 @@
     <connection>scm:git:git@github.com:ouhamzalhss/devops.git</connection>
     <developerConnection>scm:git:git@github.com:ouhamzalhss/devops.git</developerConnection>
     <url>git@github.com:ouhamzalhss/devops.git</url>
-    <tag>v1.1.0</tag>
+    <tag>devops-1.0.0</tag>
   </scm>
   
 	<dependencies>
@@ -70,19 +70,19 @@
 	<build>
 		<plugins>
 
-			<!--<plugin>
+			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
-
-			<plugin>
-				<groupId>org.apache.maven.plugins</groupId>
-				<artifactId>maven-release-plugin</artifactId>
-				<configuration>
-					<tagNameFormat>v@{project.version}</tagNameFormat>
-					<autoVersionSubmodules>true</autoVersionSubmodules>
-				</configuration>
-			</plugin>-->
+			<!--
+                        <plugin>
+                            <groupId>org.apache.maven.plugins</groupId>
+                            <artifactId>maven-release-plugin</artifactId>
+                            <configuration>
+                                <tagNameFormat>v@{project.version}</tagNameFormat>
+                                <autoVersionSubmodules>true</autoVersionSubmodules>
+                            </configuration>
+                        </plugin>-->
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-release-plugin</artifactId>
