@@ -35,7 +35,6 @@
     <connection>scm:git:git@github.com:ouhamzalhss/devops-project.git</connection>
     <developerConnection>scm:git:git@github.com:ouhamzalhss/devops-project.git</developerConnection>
     <url>git@github.com:ouhamzalhss/devops-project.git</url>
-    <tag>devops-1.0.0</tag>
   </scm>
   
 	<dependencies>
