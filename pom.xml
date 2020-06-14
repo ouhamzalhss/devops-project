@@ -10,11 +10,9 @@
 	<groupId>com.ouhamza</groupId>
 	<artifactId>devops</artifactId>
 	 <packaging>war</packaging>
-<<<<<<< HEAD
+
 	 <version>1.0.0-SNAPSHOT</version>
-=======
-	<version>1.0.1-SNAPSHOT</version>
->>>>>>> ddbbf2f10480d14f293dd3eb2d18b3fdded60d00
+
 	<name>devops</name>
 	<description>Demo project devops</description>
 
